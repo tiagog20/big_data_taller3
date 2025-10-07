@@ -1,3 +1,5 @@
+![Terraform AWS Banner](./banner.png)
+
 # 📦 Workshop 3 – AWS Infrastructure with Terraform
 
 Welcome to Workshop 3! This project leverages Terraform to provision a variety of cloud resources on AWS. Each subdirectory is a self-contained module that builds a specific infrastructure component tailored for data processing with different Python technologies.
